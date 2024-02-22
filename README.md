@@ -1,1 +1,1 @@
-# scan-game
+# games
